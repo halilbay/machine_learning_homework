@@ -1,0 +1,28 @@
+Homework Report
+###############
+Firstly, I have converted the file type from .txt to .csv.
+
+This homework has 6 elements which are growing up step-by-step.
+
+1) Using only the first 3 features (sex, length, and diameter) as input, and
+
+  1.1) 100 samples for training, and rest for validation set
+  1.2) 1000 samples for training, and rest for validation set
+  1.3) 2000 samples for training, and rest for validation set
+
+2) Using all features as input, and
+
+  2.1) 100 samples for training, and rest for validation set
+  2.2) 1000 samples for training, and rest for validation set
+  2.3) 2000 samples for training, and rest for validation set
+  
+  
+This road map is that to reduce accuracy of classification. Because first part of homework is using 3 features that keeping probability of prediction in high. In first element of each part is has mininum training set. Also this way has high prediction value. So, the highest accuracy is 1.1 case. 
+
+Confussion matrix is also the closest of ideal one that is 1.1 case. 
+
+Confussion matrixes and accuracy values are available in code.
+
+
+Halil BAY
+1506256

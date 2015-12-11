@@ -1,0 +1,19 @@
+                                                                                                  10/12/2015
+                                                                                                  Thursday
+
+
+                                                        Homework Report
+    
+    Firstly, I have created a .csv file from the dataset and split from middle and first half is used for training set
+    and the other half is used for test set.
+
+    This homework include three of four figures. I could not do the last figure which about misclassification of tr set and test set versus epoch.
+    I will explain what I did that;
+        First of all, I have showed up dataset in graphic.
+        Then, I have showed up training set with using different epoches in graphic. 
+        In the last figure, I have showed up training and test set with using different epoches in graphic.
+        
+
+
+                                                                                                    Halil BAY
+                                                                                                    1506256
